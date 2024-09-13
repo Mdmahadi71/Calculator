@@ -9,7 +9,7 @@ function App() {
     <>
       <div className=" py-[30px] bg-blue-600">
         <Container>
-          <div className="w-[300px] mx-auto bg-white rounded-[10px]">
+          <div className="w-[280px] mx-auto bg-white rounded-[10px]">
             <input
               type="text"
               className="border-[1px] border-black outline-none bg-black text-white text-right w-full text-[50px] rounded-t-[10px] h-[100px]" value={data} readOnly />
