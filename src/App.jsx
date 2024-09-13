@@ -9,6 +9,9 @@ function App() {
     <>
       <div className=" py-[30px] bg-blue-600">
         <Container>
+          <div className=" text-center py-4">
+            <h2>MY CALCULETOR</h2>
+          </div>
           <div className="w-[280px] mx-auto bg-white rounded-[10px]">
             <input
               type="text"
